@@ -1,1 +1,1 @@
-# computer-basic-synthesis
+# computer-course
